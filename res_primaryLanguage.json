@@ -1,0 +1,169 @@
+{
+    "basic_info": {
+      "description_header": "Hi",
+      "description": "👋 I'm Erickle Lucena. I am a teacher and programmer, with experience in basic education schools, technical schools and in Government Education Departments. I've already developed apps for community intervention with official recognition from the city council. I've also worked on apps for training professionals and websites for educators and managing the education system. I also have experience leading teams and working with task management software. Thank you 💜",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Ecity",
+        "startDate": "2018",
+        "description": "Application developed in a project for students of a technical school, it allows the population to insert problems related to their daily lives on the map and thus make them visible in real time for the visualization of public services. Available at https://play.google.com/store/apps/details?id=com.ecity.alice.project.ecity.",
+        "images": [
+          "images/portfolio/ecity/ecity_1.jpg",
+          "images/portfolio/ecity/ecity_2.jpg",
+          "images/portfolio/ecity/ecity_3.jpg"
+        ],
+        "url": "https://github.com/rilkece/ecity",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "My Riddles",
+        "startDate": "2020",
+        "description": "Application developed for education professionals to create puzzles for their students, with ranking and updating in real time. Available at https://play.google.com/store/apps/details?id=com.cria.sphinxroom",
+        "images": [
+          "images/portfolio/riddles/riddles_1.jpg",
+          "images/portfolio/riddles/riddles_2.jpg"
+        ],
+        "url": "https://github.com/rilkece/my-riddles",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "Hi CRIA",
+        "startDate": "2020",
+        "description": "Application developed for English language teachers, with gamification structure. Available at https://play.google.com/store/apps/details?id=com.cria.agora",
+        "images": [
+          "images/portfolio/hicria/hicria_1.jpg",
+          "images/portfolio/hicria/hicria_2.jpg"
+        ],
+        "url": "https://github.com/rilkece/hi-cria",
+        "technologies": [
+          {
+            "class": "devicon-java-plain",
+            "name": "Java"
+          },
+          {
+            "class": "devicon-google-plain",
+            "name": "Firebase"
+          },
+          {
+            "class": "devicon-android-plain",
+            "name": "Android"
+          }
+        ]
+      },
+      {
+        "title": "The magic journal",
+        "startDate": "2021",
+        "description": "Website created for children's teachers to teach the subject of History in an integrated way with other subjects. It works like a journal that receives data and returns graphs. Available at https://odiariomagico.com.br/",
+        "images": [
+          "images/portfolio/odiariomagico/diario_1.jpg",
+          "images/portfolio/odiariomagico/diario_2.jpg"
+        ],
+        "url": "https://github.com/rilkece/odiariomagico",
+        "technologies": [
+          {
+            "class": "devicon-html5-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "Javascript"
+          },
+          {
+            "class": "devicon-php-plain",
+            "name": "PHP"
+          }
+        ]
+      },
+      {
+        "title": "Portal CRIA",
+        "startDate": "2021",
+        "description": "Website under development. It will function as an online portal for employees of the Department of Education of Paraíba to carry out training, monitor school data, post news and create their own portfolio pages.",
+        "images": [
+          "images/portfolio/portalcria/portalcria_1.jpg",
+          "images/portfolio/portalcria/portalcria_2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-php-plain",
+            "name": "HTML"
+          },
+          {
+            "class": "devicon-react-plain",
+            "name": "React"
+          },
+          {
+            "class": "devicon-mysql-plain",
+            "name": "MySQL"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Paraíba Educational Board",
+        "title": "Education Coordinator and Developer",
+        "years": "01.2019 - present",
+        "mainTech": [
+          "Web development"
+        ],
+        "technologies": [
+          "PHP",
+          "MySQL",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "HTML5",
+          "CSS"
+        ]
+      },
+      {
+        "company": "Bayeux Technical School",
+        "title": "IT and History Teacher",
+        "years": "01.2016 - 12.2018",
+        "mainTech": [
+          "Mobile development"
+        ],
+        "technologies": [
+          "Java",
+          "Firebase",
+          "Android Studio",
+          "JavaScript"
+        ]
+      }
+    ]
+  }
